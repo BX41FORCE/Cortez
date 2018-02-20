@@ -8,7 +8,7 @@ import { Component } from '@angular/core';
       <div class="col-xs-12 col-sm-12 col-md-12 col-lg-12">
     </div>
       <div class="col-xs-12 col-sm-12 col-md-12 col-lg-4">
-      Left Component
+      Left Component Bryan Cortez
       </div>
       <div class="col-xs-12 col-sm-12 col-md-12 col-lg-8">
       Right Component
